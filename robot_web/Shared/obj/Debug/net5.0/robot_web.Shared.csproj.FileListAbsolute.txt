@@ -1,0 +1,12 @@
+D:\Projects\RobotBlazorWASM\robot_web\Shared\bin\Debug\net5.0\robot_web.Shared.deps.json
+D:\Projects\RobotBlazorWASM\robot_web\Shared\bin\Debug\net5.0\robot_web.Shared.dll
+D:\Projects\RobotBlazorWASM\robot_web\Shared\bin\Debug\net5.0\ref\robot_web.Shared.dll
+D:\Projects\RobotBlazorWASM\robot_web\Shared\bin\Debug\net5.0\robot_web.Shared.pdb
+D:\Projects\RobotBlazorWASM\robot_web\Shared\obj\Debug\net5.0\robot_web.Shared.csprojAssemblyReference.cache
+D:\Projects\RobotBlazorWASM\robot_web\Shared\obj\Debug\net5.0\robot_web.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RobotBlazorWASM\robot_web\Shared\obj\Debug\net5.0\robot_web.Shared.AssemblyInfoInputs.cache
+D:\Projects\RobotBlazorWASM\robot_web\Shared\obj\Debug\net5.0\robot_web.Shared.AssemblyInfo.cs
+D:\Projects\RobotBlazorWASM\robot_web\Shared\obj\Debug\net5.0\robot_web.Shared.csproj.CoreCompileInputs.cache
+D:\Projects\RobotBlazorWASM\robot_web\Shared\obj\Debug\net5.0\robot_web.Shared.dll
+D:\Projects\RobotBlazorWASM\robot_web\Shared\obj\Debug\net5.0\ref\robot_web.Shared.dll
+D:\Projects\RobotBlazorWASM\robot_web\Shared\obj\Debug\net5.0\robot_web.Shared.pdb
