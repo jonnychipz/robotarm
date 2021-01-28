@@ -16,7 +16,7 @@ namespace robot_firmware
 
         static async Task Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Robot Arm Engaged!!!!");
             
             using PwmChannel pwmChannel1 = PwmChannel.Create(0,0,50);
             using ServoMotor servoMotor1 = new ServoMotor(
@@ -53,7 +53,7 @@ namespace robot_firmware
             servoMotor4.Start();
 
             connection = new HubConnectionBuilder()
-                .WithUrl("https://192.168.1.200:5001/chathub",conf =>
+                .WithUrl("http://192.168.1.200:4080/chathub",conf =>
                 {
                     conf.HttpMessageHandlerFactory = (x) => new HttpClientHandler
                     {
